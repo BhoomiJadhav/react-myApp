@@ -1,0 +1,23 @@
+table {
+  border: 2;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-color: brown;
+}
+thead {
+  color: rgb(17, 17, 17);
+  background-color: rgb(240, 236, 6);
+}
+thead th {
+  padding: 10px;
+  text-align: center;
+}
+tbody {
+  color: black;
+  background-color: lightgoldenrodyellow;
+  text-align: center;
+}
+tbody tr td {
+  padding: 10px;
+}
