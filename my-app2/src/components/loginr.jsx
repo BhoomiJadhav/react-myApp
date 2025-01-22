@@ -22,7 +22,6 @@ const loginr = () => {
     e.preventDefault();
     alert(message);
   };
-
   return (
     <div
       style={{
